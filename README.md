@@ -28,6 +28,12 @@ cd tutorial
 django-admin startapp quickstart
 cd ..
 ============================================================================================
+A Django App that adds Cross-Origin Resource Sharing (CORS) headers to responses. This allows in-browser requests to your Django application from other origins.
+
+follow instructions as described in this repo:
+
+https://github.com/ottoyiu/django-cors-headers
+=============================================================================================
 
 <<<<<<<<<<<-------------Only things to be modified for any other projects are:---------------->>>>
 
